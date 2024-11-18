@@ -1,0 +1,93 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+header {
+    background: #28a745; /* Warna hijau */
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.hello {
+    justify-items: center;
+    height: auto;
+    left: 0px;
+    width: 135px;
+    padding: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.hello1 {
+    opacity: 100%;
+    justify-items: center;
+    height: auto;
+    left: 0px;
+    width: 195px;
+    padding: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.container {
+    width: 100%;
+    max-width: 400px;
+    background: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.container1 {
+    opacity: 100%;
+    width: 100%;
+    max-width: 400px;
+    background: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.login-box {
+    text-align: center;
+}
+
+.textbox {
+    margin-bottom: 15px;
+}
+
+.checkbox {
+    text-align: left;
+}
+
+.textbox input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #2879e3;
+}
+
+.signup-link {
+    margin-top: 10px;
+}
